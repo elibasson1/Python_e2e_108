@@ -1,0 +1,20 @@
+2020-11-05 15:54:36,020 :INFO :test_e2e :get home page
+2020-11-05 15:54:39,454 :INFO :find_prod :iphone X
+2020-11-05 15:54:39,469 :INFO :find_prod :Samsung Note 8
+2020-11-05 15:54:39,486 :INFO :find_prod :Nokia Edge
+2020-11-05 15:54:39,500 :INFO :find_prod :Blackberry
+2020-11-05 15:55:36,234 :INFO :test_e2e :get home page
+2020-11-05 15:55:39,399 :INFO :find_prod :iphone X
+2020-11-05 15:55:39,414 :INFO :find_prod :Samsung Note 8
+2020-11-05 15:55:39,431 :INFO :find_prod :Nokia Edge
+2020-11-05 15:55:39,445 :INFO :find_prod :Blackberry
+2020-11-05 15:58:17,451 :INFO :test_e2e :get home page
+2020-11-05 15:58:21,008 :INFO :find_prod :iphone X
+2020-11-05 15:58:21,024 :INFO :find_prod :Samsung Note 8
+2020-11-05 15:58:21,039 :INFO :find_prod :Nokia Edge
+2020-11-05 15:58:21,054 :INFO :find_prod :Blackberry
+2020-11-05 16:22:25,755 :INFO :test_e2e :get home page
+2020-11-05 16:22:29,356 :INFO :find_prod :iphone X
+2020-11-05 16:22:29,372 :INFO :find_prod :Samsung Note 8
+2020-11-05 16:22:29,389 :INFO :find_prod :Nokia Edge
+2020-11-05 16:22:29,404 :INFO :find_prod :Blackberry
